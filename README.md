@@ -10,6 +10,8 @@
 Tools used: Android Studio, Firebase</h3>
 
 
+
+<br><br>
 ![Screenshot 2023-07-12 165045](https://github.com/Rahul-patil-2003/CTA-CALCULATOR-Quiz-Application-firebase/assets/138668076/66aeddb8-e8b9-4e63-93a3-db403ef5d56b)
 <br><br>
 ![Screenshot 2023-07-12 165156](https://github.com/Rahul-patil-2003/CTA-CALCULATOR-Quiz-Application-firebase/assets/138668076/0b55f7b8-3728-4125-9fa3-f412d42b72fe)
